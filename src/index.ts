@@ -7,3 +7,8 @@ app.get('/', (_,res) => {
 })
 
 app.listen(port, () => console.log(`Running on port ${port}`))
+
+/*
+ * TODO: next + express 연결
+ *  방법: https://chanho-yoon.github.io/next/express/next-connect-express/
+ */
